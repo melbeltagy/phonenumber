@@ -1,3 +1,5 @@
+_This project is/was used for interview purposes only_
+
 ## Project Setup
 * `python -m venv venv` to set up virtual environment to run your application within.
 * `source venv/bin/activate` to start the virtual environment.
