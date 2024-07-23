@@ -8,5 +8,5 @@ test: dev
 	python -m unittest
 
 lint: dev
-	mypy .\phonenumber.py .\tests.py
-	flake8 .\phonenumber.py .\tests.py
+	mypy ./phonenumber.py ./tests.py
+	flake8
